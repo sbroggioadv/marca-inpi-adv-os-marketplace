@@ -1,0 +1,14 @@
+{
+  "SessionStart": [
+    {
+      "matcher": "",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "echo '[marca-inpi-adv-os] Plugin ativo. Porta unica: marcas-master. Onboarding: /start-marca-inpi. 37 skills (registro/comercial, administrativo INPI, judicial). Regra de ouro: 1 classe = 1 processo. Sempre ler context/ e fechar pela suprema-corte-marcaria.'",
+          "timeout": 5
+        }
+      ]
+    }
+  ]
+}

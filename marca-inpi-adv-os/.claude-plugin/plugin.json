@@ -1,0 +1,9 @@
+{
+  "name": "marca-inpi-adv-os",
+  "version": "0.1.0",
+  "description": "Plugin Claude Code full-stack de Direito Marcario brasileiro (uso nacional). Cobre o ciclo completo: pesquisa de anterioridade, diagnostico por CNPJ/contrato/site, classificacao NCL, proposta comercial e contrato por classe, deposito no e-Marcas e emissao de GRU; contencioso administrativo no INPI (oposicao, exigencia, recurso, PAN, caducidade, alto renome, Protocolo de Madri); e contencioso judicial (abstencao+liminar, concorrencia desleal, nulidade na Justica Federal, acao de novo exame apos indeferimento, recursos). 37 skills, orquestrador marcas-master, Suprema Corte R1-R4 e fundacao juridica enraizada (LPI 9.279/96, CUP, Madri, TRIPS, NCL 13/2026, tabela de custos INPI, jurisprudencia STJ/TRF2). Onboarding via /start-marca-inpi.",
+  "author": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  },
+  "license": "MIT"
+}

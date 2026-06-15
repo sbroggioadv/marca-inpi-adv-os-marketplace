@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "marca-inpi-adv-os-marketplace",
+  "description": "Marketplace oficial do plugin Marca-INPI Adv-OS — Direito Marcario (marcas/INPI) com IA.",
+  "owner": { "name": "Sbroggio Advocacia & IA Combativa" },
+  "plugins": [
+    {
+      "name": "marca-inpi-adv-os",
+      "source": "./marca-inpi-adv-os",
+      "description": "Plugin full-stack de Direito Marcario brasileiro: pesquisa de anterioridade, classificacao NCL, proposta e contrato por classe, deposito no INPI; contencioso administrativo (oposicao, recurso, PAN, caducidade, alto renome, Madri) e judicial (abstencao, concorrencia desleal, nulidade na Justica Federal, recursos). 37 skills, orquestrador marcas-master, Suprema Corte R1-R4, fundacao juridica enraizada.",
+      "author": { "name": "Sbroggio Advocacia & IA Combativa" }
+    }
+  ]
+}
